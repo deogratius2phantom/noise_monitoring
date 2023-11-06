@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MEGA_PRO_EMBED_CH340G___ATMEGA2560")(type "KiCad")(uri "C:/Users/deoke/Downloads/MEGA_PRO_EMBED_CH340G___ATMEGA2560/MEGA_PRO_EMBED_CH340G___ATMEGA2560.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino_mega_pro_mini")(type "KiCad")(uri "${KIPRJMOD}/arduino_mega_pro_mini.kicad_sym")(options "")(descr ""))
+)
